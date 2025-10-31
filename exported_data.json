@@ -1,0 +1,408 @@
+{
+  "authors": [
+    {
+      "name": "Alice Munro",
+      "email": "alice@example.com",
+      "birth_date": "1931-07-10"
+    },
+    {
+      "name": "George Orwell",
+      "email": "george@example.com",
+      "birth_date": "1903-06-25"
+    },
+    {
+      "name": "Haruki Murakami",
+      "email": "haruki@example.com",
+      "birth_date": "1949-01-12"
+    },
+    {
+      "name": "Toni Morrison",
+      "email": "toni@example.com",
+      "birth_date": "1931-02-18"
+    },
+    {
+      "name": "Chinua Achebe",
+      "email": "chinua@example.com",
+      "birth_date": "1930-11-16"
+    },
+    {
+      "name": "Margaret Atwood",
+      "email": "margaret@example.com",
+      "birth_date": "1939-11-18"
+    },
+    {
+      "name": "Kazuo Ishiguro",
+      "email": "kazuo@example.com",
+      "birth_date": "1954-11-08"
+    },
+    {
+      "name": "Zadie Smith",
+      "email": "zadie@example.com",
+      "birth_date": "1975-10-25"
+    },
+    {
+      "name": "Jhumpa Lahiri",
+      "email": "jhumpa@example.com",
+      "birth_date": "1967-07-11"
+    },
+    {
+      "name": "Isabel Allende",
+      "email": "isabel@example.com",
+      "birth_date": "1942-08-02"
+    },
+    {
+      "name": "Neil Gaiman",
+      "email": "neil@example.com",
+      "birth_date": "1960-11-10"
+    },
+    {
+      "name": "Colson Whitehead",
+      "email": "colson@example.com",
+      "birth_date": "1969-11-06"
+    },
+    {
+      "name": "Donna Tartt",
+      "email": "donna@example.com",
+      "birth_date": "1963-12-23"
+    },
+    {
+      "name": "Octavia Butler",
+      "email": "octavia@example.com",
+      "birth_date": "1947-06-22"
+    },
+    {
+      "name": "Ray Bradbury",
+      "email": "ray@example.com",
+      "birth_date": "1920-08-22"
+    },
+    {
+      "name": "Ursula K. Le Guin",
+      "email": "ursula@example.com",
+      "birth_date": "1929-10-21"
+    },
+    {
+      "name": "Salman Rushdie",
+      "email": "salman@example.com",
+      "birth_date": "1947-06-19"
+    },
+    {
+      "name": "J.K. Rowling",
+      "email": "jk@example.com",
+      "birth_date": "1965-07-31"
+    },
+    {
+      "name": "Stephen King",
+      "email": "stephen@example.com",
+      "birth_date": "1947-09-21"
+    },
+    {
+      "name": "Agatha Christie",
+      "email": "agatha@example.com",
+      "birth_date": "1890-09-15"
+    }
+  ],
+  "books": [
+    {
+      "title": "1984",
+      "publication_date": "1949-06-08",
+      "genre": "Dystopian",
+      "author_name": "George Orwell",
+      "author_email": "george@example.com"
+    },
+    {
+      "title": "The Bluest Eye",
+      "publication_date": "1970-06-01",
+      "genre": "Fiction",
+      "author_name": "Toni Morrison",
+      "author_email": "toni@example.com"
+    },
+    {
+      "title": "Things Fall Apart",
+      "publication_date": "1958-06-17",
+      "genre": "Historical",
+      "author_name": "Chinua Achebe",
+      "author_email": "chinua@example.com"
+    },
+    {
+      "title": "The Handmaid's Tale",
+      "publication_date": "1985-09-01",
+      "genre": "Speculative",
+      "author_name": "Margaret Atwood",
+      "author_email": "margaret@example.com"
+    },
+    {
+      "title": "Never Let Me Go",
+      "publication_date": "2005-03-01",
+      "genre": "Science Fiction",
+      "author_name": "Kazuo Ishiguro",
+      "author_email": "kazuo@example.com"
+    },
+    {
+      "title": "White Teeth",
+      "publication_date": "2000-01-01",
+      "genre": "Contemporary",
+      "author_name": "Zadie Smith",
+      "author_email": "zadie@example.com"
+    },
+    {
+      "title": "Interpreter of Maladies",
+      "publication_date": "1999-07-01",
+      "genre": "Short Stories",
+      "author_name": "Jhumpa Lahiri",
+      "author_email": "jhumpa@example.com"
+    },
+    {
+      "title": "The House of the Spirits",
+      "publication_date": "1982-01-01",
+      "genre": "Magical Realism",
+      "author_name": "Isabel Allende",
+      "author_email": "isabel@example.com"
+    },
+    {
+      "title": "American Gods",
+      "publication_date": "2001-06-19",
+      "genre": "Fantasy",
+      "author_name": "Neil Gaiman",
+      "author_email": "neil@example.com"
+    },
+    {
+      "title": "The Underground Railroad",
+      "publication_date": "2016-08-02",
+      "genre": "Historical",
+      "author_name": "Colson Whitehead",
+      "author_email": "colson@example.com"
+    },
+    {
+      "title": "The Goldfinch",
+      "publication_date": "2013-10-22",
+      "genre": "Literary",
+      "author_name": "Donna Tartt",
+      "author_email": "donna@example.com"
+    },
+    {
+      "title": "Kindred",
+      "publication_date": "1979-06-01",
+      "genre": "Science Fiction",
+      "author_name": "Octavia Butler",
+      "author_email": "octavia@example.com"
+    },
+    {
+      "title": "Fahrenheit 451",
+      "publication_date": "1953-10-19",
+      "genre": "Dystopian",
+      "author_name": "Ray Bradbury",
+      "author_email": "ray@example.com"
+    },
+    {
+      "title": "The Left Hand of Darkness",
+      "publication_date": "1969-03-01",
+      "genre": "Science Fiction",
+      "author_name": "Ursula K. Le Guin",
+      "author_email": "ursula@example.com"
+    },
+    {
+      "title": "Midnight's Children",
+      "publication_date": "1981-04-01",
+      "genre": "Historical",
+      "author_name": "Salman Rushdie",
+      "author_email": "salman@example.com"
+    },
+    {
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "publication_date": "1997-06-26",
+      "genre": "Fantasy",
+      "author_name": "J.K. Rowling",
+      "author_email": "jk@example.com"
+    },
+    {
+      "title": "Carrie",
+      "publication_date": "1974-04-05",
+      "genre": "Horror",
+      "author_name": "Stephen King",
+      "author_email": "stephen@example.com"
+    },
+    {
+      "title": "Murder on the Orient Express",
+      "publication_date": "1934-01-01",
+      "genre": "Mystery",
+      "author_name": "Agatha Christie",
+      "author_email": "agatha@example.com"
+    },
+    {
+      "title": "Lives of Girls and Women",
+      "publication_date": "1971-01-01",
+      "genre": "Fiction",
+      "author_name": "Alice Munro",
+      "author_email": "alice@example.com"
+    },
+    {
+      "title": "Kafka on the Shore",
+      "publication_date": "2002-09-12",
+      "genre": "Magical Realism",
+      "author_name": "Haruki Murakami",
+      "author_email": "haruki@example.com"
+    }
+  ],
+  "reviews": [
+    {
+      "reviewer_name": "John Doe",
+      "rating": 5,
+      "comment": "A chilling masterpiece.",
+      "review_date": "2023-05-01",
+      "book_title": "1984",
+      "book_author": "George Orwell"
+    },
+    {
+      "reviewer_name": "Jane Smith",
+      "rating": 4,
+      "comment": "Heartbreaking and poetic.",
+      "review_date": "2023-06-15",
+      "book_title": "The Bluest Eye",
+      "book_author": "Toni Morrison"
+    },
+    {
+      "reviewer_name": "Liam Chen",
+      "rating": 5,
+      "comment": "Powerful cultural insight.",
+      "review_date": "2023-07-20",
+      "book_title": "Things Fall Apart",
+      "book_author": "Chinua Achebe"
+    },
+    {
+      "reviewer_name": "Emily Zhang",
+      "rating": 5,
+      "comment": "Terrifyingly relevant.",
+      "review_date": "2023-08-10",
+      "book_title": "The Handmaid's Tale",
+      "book_author": "Margaret Atwood"
+    },
+    {
+      "reviewer_name": "Carlos Rivera",
+      "rating": 4,
+      "comment": "Haunting and beautiful.",
+      "review_date": "2023-09-05",
+      "book_title": "Never Let Me Go",
+      "book_author": "Kazuo Ishiguro"
+    },
+    {
+      "reviewer_name": "Aisha Khan",
+      "rating": 4,
+      "comment": "Vibrant and witty.",
+      "review_date": "2023-10-01",
+      "book_title": "White Teeth",
+      "book_author": "Zadie Smith"
+    },
+    {
+      "reviewer_name": "Tom Lee",
+      "rating": 5,
+      "comment": "Deeply moving stories.",
+      "review_date": "2023-11-12",
+      "book_title": "Interpreter of Maladies",
+      "book_author": "Jhumpa Lahiri"
+    },
+    {
+      "reviewer_name": "Nina Patel",
+      "rating": 5,
+      "comment": "Magical and political.",
+      "review_date": "2023-12-01",
+      "book_title": "The House of the Spirits",
+      "book_author": "Isabel Allende"
+    },
+    {
+      "reviewer_name": "Mark Johnson",
+      "rating": 4,
+      "comment": "Epic and strange.",
+      "review_date": "2024-01-15",
+      "book_title": "American Gods",
+      "book_author": "Neil Gaiman"
+    },
+    {
+      "reviewer_name": "Sara Kim",
+      "rating": 5,
+      "comment": "Brutal and brilliant.",
+      "review_date": "2024-02-10",
+      "book_title": "The Underground Railroad",
+      "book_author": "Colson Whitehead"
+    },
+    {
+      "reviewer_name": "David Wu",
+      "rating": 4,
+      "comment": "Long but rewarding.",
+      "review_date": "2024-03-05",
+      "book_title": "The Goldfinch",
+      "book_author": "Donna Tartt"
+    },
+    {
+      "reviewer_name": "Olivia Brown",
+      "rating": 5,
+      "comment": "Time travel with purpose.",
+      "review_date": "2024-04-01",
+      "book_title": "Kindred",
+      "book_author": "Octavia Butler"
+    },
+    {
+      "reviewer_name": "Ethan Green",
+      "rating": 5,
+      "comment": "Touching and fantastic.",
+      "review_date": "2024-10-12",
+      "book_title": "Fahrenheit 451",
+      "book_author": "Ray Bradbury"
+    },
+    {
+      "reviewer_name": "Maya Lin",
+      "rating": 5,
+      "comment": "Profound and visionary.",
+      "review_date": "2024-05-10",
+      "book_title": "The Left Hand of Darkness",
+      "book_author": "Ursula K. Le Guin"
+    },
+    {
+      "reviewer_name": "Rajiv Mehta",
+      "rating": 4,
+      "comment": "Dense but rewarding.",
+      "review_date": "2024-06-01",
+      "book_title": "Midnight's Children",
+      "book_author": "Salman Rushdie"
+    },
+    {
+      "reviewer_name": "Ella Thompson",
+      "rating": 5,
+      "comment": "Magical and unforgettable.",
+      "review_date": "2024-07-15",
+      "book_title": "Harry Potter and the Sorcerer's Stone",
+      "book_author": "J.K. Rowling"
+    },
+    {
+      "reviewer_name": "Noah Brooks",
+      "rating": 4,
+      "comment": "Creepy and compelling.",
+      "review_date": "2024-08-20",
+      "book_title": "Carrie",
+      "book_author": "Stephen King"
+    },
+    {
+      "reviewer_name": "Grace Liu",
+      "rating": 5,
+      "comment": "Classic whodunit.",
+      "review_date": "2024-09-05",
+      "book_title": "Murder on the Orient Express",
+      "book_author": "Agatha Christie"
+    },
+    {
+      "reviewer_name": "Ben Carter",
+      "rating": 4,
+      "comment": "Intimate and lyrical.",
+      "review_date": "2024-10-12",
+      "book_title": "Lives of Girls and Women",
+      "book_author": "Alice Munro"
+    },
+    {
+      "reviewer_name": "Sofia Martinez",
+      "rating": 5,
+      "comment": "Surreal and poetic.",
+      "review_date": "2024-11-01",
+      "book_title": "Kafka on the Shore",
+      "book_author": "Haruki Murakami"
+    }
+  ]
+}
