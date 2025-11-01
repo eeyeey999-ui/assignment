@@ -18,9 +18,10 @@ class ReviewAdmin(admin.ModelAdmin):
     search_fields = ('reviewer_name', 'book__title')
     list_filter = ('rating', 'review_date')
 
+# Register author, book and review
+
 #Old cmd for admin.py
 #admin.site.register(Author)
 #admin.site.register(Book)
 #admin.site.register(Review)
 
-# Register author, book and review

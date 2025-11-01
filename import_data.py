@@ -98,14 +98,6 @@ def export_data():
     with open('exported_data.json', 'w') as f:
         json.dump({'authors': authors, 'books': books, 'reviews': reviews}, f, indent=2)
 
-
-#def export_data():
-    #authors = list(Author.objects.values())
-    #books = list(Book.objects.values())
-    #reviews = list(Review.objects.values())
-    #with open('exported_data.json', 'w') as f:
-        #json.dump({'authors': authors, 'books': books, 'reviews': reviews}, f, indent=2, default=serialize)
-
 def main():
     data = load_data()
     import_authors(data['authors'])
@@ -117,6 +109,12 @@ def main():
 if __name__ == '__main__':
     main()
 
+# def export_data():
+    #authors = list(Author.objects.values())
+    #books = list(Book.objects.values())
+    #reviews = list(Review.objects.values())
+    #with open('exported_data.json', 'w') as f:
+        #json.dump({'authors': authors, 'books': books, 'reviews': reviews}, f, indent=2, default=serialize)
 
 
 
