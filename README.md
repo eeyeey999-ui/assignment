@@ -22,29 +22,29 @@ django-admin startproject assign .
 python manage.py runserver
 ```
 
-Visit http://127.0.0.1:8000 to confirm the server is running
+Goto http://127.0.0.1:8000 to confirm the server is running
 
-#### 4. Goto Visual Studio Code (VS code)
+### 4. Goto Visual Studio Code (VS code)
 
 ```bash
 code .
 ```
 
-#### 5. Import Data
+### 5. Import Data
 
 Run the script at import_data.py by using the 'Run Python File' (Sample data file refer to sample_data.json)
 
-#### 6. Export Data
+### 6. Export Data
 
 Check the output file at exported_data.json
 
-#### 7. Goto Admin panel to clear data
+### 7. Goto Admin panel to clear data
 
-http://127.0.0.1:8000/admin/login/?next=/admin/
+Goto http://127.0.0.1:8000/admin/login/?next=/admin/ to clear data
 
 - Username : Admin
 - Password : 1234
 
-#### 8. Ckear Data
+### 8. Ckear Data
 
 => Select LIBRARY => Authors => tick all NAME => Goto ACTION Dropdown => Select delete selected authors => Press buttons Go then Yes
