@@ -25,8 +25,8 @@ python manage.py runserver
 ### 4. Goto vs code to do import and export data => code .
 
 ```py
-IMPORT DATA: import_data.py =>  press button Run Python File
-EXPORT DATA: check file at exported_data.json
+IMPORT DATA: Script at import_data.py =>  press button Run Python File
+EXPORT DATA: Check data file at exported_data.json
 Refer to data file => sample_data.json
 ```
 
